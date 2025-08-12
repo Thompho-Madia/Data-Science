@@ -30,20 +30,20 @@
 <summary>🐐 <strong>YouTube</strong></summary>
   
 - [Paul McWhorter](https://www.youtube.com/@paulmcwhorter) — Engineering  
-- [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) — Data  
-- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) — ChatGPT  
-- [Corey Schafer](https://www.youtube.com/@coreyms) — Data  
-- [Sentdex](https://www.youtube.com/@sentdex) — Data  
+- [Alex Freman](https://www.youtube.com/@AlexTheAnalyst) — Data
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) — ChatGPT creator🤯!!!
+- [Corey Schafer](https://www.youtube.com/@coreyms) — Data 
+- [Harrison Kinsley](https://www.youtube.com/@sentdex) — Data  
 - [Neso Academy](https://www.youtube.com/@nesoacademy) — CS  
-- [Abdul Bari](https://www.youtube.com/@abdulbari144) — Algorithms  
-- [Jeff Hanson](https://www.youtube.com/@JeffHansonStats) — Stats  
-- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) — Data  
+- [Abdul Bari](https://www.youtube.com/@abdul_bari) — Algorithms  
+- [Jeff Hanson](https://www.youtube.com/@1234jhanson) — Engineering 
+- [Josh Starmer](https://www.youtube.com/@statquest) — Data  
 - [MyCodeSchool](https://www.youtube.com/@mycodeschool)  
 - [Data School](https://www.youtube.com/@dataschool)  
 - [William Fiset](https://www.youtube.com/@WilliamFiset-videos) — Algorithms  
-- [Greg Hogg](https://www.youtube.com/@GregHogg) — Algorithms  
+- [Greg Hogg](https://www.youtube.com/@GregHogg) — Algorithms
 - [Code with Aarohi](https://www.youtube.com/@codewithaarohi)  
-- [Richard E Borcherds](https://www.youtube.com/@RichardEBorcherds) — Number Theory 
+- [Richard E Borcherds](https://www.youtube.com/@richarde.borcherds7998) — Number Theory 
 
 
 </details>
