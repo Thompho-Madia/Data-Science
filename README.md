@@ -1,2 +1,2 @@
 # Data-Science
-Every open source data science materials I find helpful and have used them
+Every open source data science learning material I find helpful
