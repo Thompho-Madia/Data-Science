@@ -26,6 +26,25 @@
 
 </details>
 
+<details>
+<summary>🐐 <strong>YouTube</strong></summary>
+
+- ![Paul McWhorter](https://www.youtube.com/@paulmcwhorter) EEE (create a footnote for EEE meaning)
+- ![Neso Academy](https://www.youtube.com/@nesoacademy) EEE and CSS
+- ![Corey Schafer](https://www.youtube.com/@coreyms)
+- ![Alex Freberg](https://www.youtube.com/@AlexTheAnalyst)
+- ![]()
+- ![]()
+- ![]()
+- ![]()
+- ![]()
+- ![]()
+- ![]()
+- ![]()
+
+
+</details>
+
 ---
 
 💡 **Tip:** Star this, for future use 😉
